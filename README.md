@@ -70,9 +70,9 @@ Here are some of my highlighted projects:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Most Used Languages
 
-![Bhavya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bhavya2065\&show_icons=true\&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavya2065&layout=compact&theme=blueberry)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
