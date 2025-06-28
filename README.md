@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi there, I'm Bhavya 👋
 
-<!--
-**Bhavya2065/Bhavya2065** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Flutter & Web Developer** focused on building clean, user-friendly, and responsive applications. I enjoy turning real-world problems into elegant solutions with Flutter, Dart, Firebase, and front-end technologies like HTML/CSS/JavaScript.
 
-Here are some ideas to get you started:
+![Profile Views](https://komarev.com/ghpvc/?username=Bhavya2065\&label=Profile%20views\&color=blue\&style=flat)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🏆 GitHub Trophy
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=Bhavya2065\&theme=gruvbox\&row=1\&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 📚 Projects
+
+Here are some of my highlighted projects:
+
+* ✨ [**RMS-application**](https://github.com/Bhavya2065/RMS-application): A complete restaurant management app using Flutter and Firebase.
+* 📖 [**College Management System**](https://github.com/Bhavya2065/College_management_system): HTML-based college portal.
+* 💼 [**Amazone Clone**](https://github.com/Bhavya2065/Amazone_clone): A homepage inspired by Amazon's UI.
+* 📓 [**JavaScript Practice**](https://github.com/Bhavya2065/java-script): Small projects to practice JavaScript concepts.
+
+---
+
+## 🔧 Tech Stack
+
+**Languages & Frameworks:**
+`Dart` `JavaScript` `HTML` `CSS`
+
+**Mobile App Development:**
+`Flutter`
+
+**Backend & Database:**
+`Firebase` `Firestore`
+
+**Tools:**
+`Android Studio` `VS Code` `Git` `GitHub`
+
+---
+
+## 📊 GitHub Stats
+
+![Bhavya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bhavya2065\&show_icons=true\&theme=radical)
+
+---
+
+## 📢 Connect with Me
+
+* [LinkedIn](https://www.linkedin.com/in/bhavya-dani-3097a7364)
+
+---
+
+*Thanks for visiting my profile!* 🚀
