@@ -25,8 +25,6 @@ Here are some of my highlighted projects:
 
 ## 🧰 Languages and Tools
 
-## 🧰 Languages and Tools
-
 <p align="left">
   <!-- Core -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
