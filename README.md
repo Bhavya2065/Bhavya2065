@@ -6,9 +6,10 @@ I'm a passionate **Flutter & Web Developer** focused on building clean, user-fri
 
 ---
 
-## 🏆 GitHub Trophy
+🏆 GitHub Trophies
+────────────────────────────
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=Bhavya2065\&theme=gruvbox\&row=1\&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+[ Trophy 1 ] [ Trophy 2 ] [ Trophy 3 ] [ Trophy 4 ]
 
 ---
 
