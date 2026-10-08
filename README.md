@@ -1,6 +1,6 @@
 # Hi there, I'm Bhavya 👋
 
-I'm a passionate **Flutter & Web Developer** focused on building clean, user-friendly, and responsive applications. I enjoy turning real-world problems into elegant solutions with Flutter, Dart, Firebase, and front-end technologies like HTML/CSS/JavaScript.
+I'm a **Full-Stack Developer** focused on building clean, responsive, and user-friendly web applications. I work with **JavaScript, React.js, Node.js, Express.js, and MySQL**, and enjoy building practical solutions for real-world problems.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Bhavya2065\&label=Profile%20views\&color=blue\&style=flat)
 
@@ -12,8 +12,7 @@ Here are some of my highlighted projects:
 
 * ✨ [**RMS-application**](https://github.com/Bhavya2065/RMS-application): A complete restaurant management app using Flutter and Firebase.
 * 📖 [**College Management System**](https://github.com/Bhavya2065/College_management_system): HTML-based college portal.
-* 💼 [**Amazone Clone**](https://github.com/Bhavya2065/Amazone_clone): A homepage inspired by Amazon's UI.
-* 📓 [**JavaScript Practice**](https://github.com/Bhavya2065/java-script): Small projects to practice JavaScript concepts.
+* 💼 [**Amazon Clone**](https://github.com/Bhavya2065/Amazone_clone): A homepage inspired by Amazon's UI.
 
 ---
 
