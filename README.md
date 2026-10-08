@@ -55,17 +55,19 @@ Here are some of my highlighted projects:
 ## 🔧 Tech Stack
 
 **Languages & Frameworks:**
-`Dart` `JavaScript` `HTML` `CSS`
+`JavaScript` `React.js` `HTML` `CSS` `PHP` `Node.js` `Express.js`
 
-**Mobile App Development:**
-`Flutter`
+**Frontend Development:**
+`React.js` `React Router` `Redux Toolkit` `Context API` `Tailwind CSS` `Bootstrap` `CSS Modules`
 
 **Backend & Database:**
-`Firebase` `Firestore`
+`Node.js` `Express.js` `PHP` `MySQL` `MSSQL` `Firebase` `Firestore`
 
-**Tools:**
-`Android Studio` `VS Code` `Git` `GitHub`
+**Mobile App Development:**
+`Flutter` `Dart`
 
+**Tools & Technologies:**
+`VS Code` `Git` `GitHub` `Postman` `XAMPP` `PHPMyAdmin` `Android Studio`
 ---
 
 ## 📊 Most Used Languages
