@@ -68,6 +68,7 @@ Here are some of my highlighted projects:
 
 **Tools & Technologies:**
 `VS Code` `Git` `GitHub` `Postman` `XAMPP` `PHPMyAdmin` `Android Studio`
+
 ---
 
 ## 📊 Most Used Languages
