@@ -6,13 +6,6 @@ I'm a passionate **Flutter & Web Developer** focused on building clean, user-fri
 
 ---
 
-🏆 GitHub Trophies
-────────────────────────────
-
-[ Trophy 1 ] [ Trophy 2 ] [ Trophy 3 ] [ Trophy 4 ]
-
----
-
 ## 📚 Projects
 
 Here are some of my highlighted projects:
